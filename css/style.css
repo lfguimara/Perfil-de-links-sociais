@@ -1,0 +1,89 @@
+body {
+    background-color: var(--background-color);
+    font-family: 'roboto' ;
+    font-size: 18px;
+    height: 100vh;
+}
+
+hr {
+    width: 100%;
+}
+
+.conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    background-color: var(--darkGrey);
+    border-radius: 10px;
+    width: 400px;
+    height: 650px;
+}
+
+.card .info-pessoal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card .info-pessoal .imagem{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border-radius: 100vh;
+    height: 80px;
+}
+
+.card .info-pessoal .nome {
+    color: var(--white);
+    font-size: 25px;
+}
+
+.card .info-pessoal .lugar {
+    color: var(--white);
+    font-size: 12px;
+    padding-bottom: 30px;
+    color: var(--green);
+}
+
+.card .info-pessoal .profissao {
+    color: gray;
+    font-size: 15px;
+}
+
+.portifolio-redes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 300px;
+    text-align: center;
+    color: var(--white);
+}
+
+.portifolio-redes .redes-sociais {
+    background-color: var(--grey);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    height: 50px;
+    width: 300px;
+    font-size: 17px;
+    justify-content: center;
+}
+
+.portifolio-redes .redes-sociais:hover {
+    background-color: slategray;
+    transition: 1s;
+}
+
+
+
