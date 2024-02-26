@@ -1,44 +1,42 @@
-# Frontend Mentor - Social links profile
+# Mentor Frontend - Perfil de links sociais
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Bem-vindo! 👋
 
-Thanks for checking out this front-end coding challenge.
+Obrigado por conferir este desafio de codificação front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+**Para fazer este desafio, você precisa de um conhecimento básico de HTML e CSS.**
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## O desafio
 
-## The challenge
+Seu desafio é construir esse perfil de links sociais e fazer com que pareça o mais próximo possível do design.
 
-Your challenge is to build out this social links profile and get it looking as close to the design as possible.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Seus usuários devem ser capazes de:
 
-Your users should be able to: 
+- Veja os estados de foco e foco para todos os elementos interativos na página
 
-- See hover and focus states for all interactive elements on the page
+Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.frontendmentor.io/community) e tire dúvidas no canal **#help**.
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+## Onde encontrar tudo
 
-## Where to find everything
+Sua tarefa é construir o projeto com os designs dentro da pasta `/design`. Você encontrará uma versão móvel e uma versão desktop do design.
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Os designs estão em formato estático JPG. Usar JPGs significa que você precisará usar seu bom senso para estilos como `tamanho da fonte`, `preenchimento` e `margem`.
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+Se desejar que os arquivos de design (fornecemos versões Sketch e Figma) inspecionem o design com mais detalhes, você pode [inscrever-se como membro PRO] (https://www.frontendmentor.io/pro).
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+Todos os ativos necessários para este projeto estão na pasta `/assets`. As imagens já são exportadas para o tamanho de tela correto e otimizadas.
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+Também incluímos arquivos de fontes variáveis ​​e estáticas para as fontes necessárias para este projeto. Você pode optar por vincular ao Google Fonts ou usar os arquivos de fontes locais para hospedar as fontes você mesmo. Observe que removemos os arquivos de fontes estáticas para as espessuras de fonte que não são necessárias para este projeto.
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+Há também um arquivo `style-guide.md` contendo as informações que você precisa, como paleta de cores e fontes.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+## Construindo seu projeto
 
-## Building your project
-
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Sinta-se à vontade para usar qualquer fluxo de trabalho com o qual se sinta confortável. Abaixo está um processo sugerido, mas não parece necessário seguir estas etapas:
 
 1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
 2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
